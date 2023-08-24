@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/media/tatsukuroi/Biblioteca/Backup/Workspace/java/stefanini/desafiosProgramas/conversorMoedas/cotacaoV2/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index

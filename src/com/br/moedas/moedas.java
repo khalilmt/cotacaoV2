@@ -26,8 +26,9 @@ public class moedas {
     public String getUnidadeDollar() {
         return DOLLAR.format(valor);
     }
+
     public String converterParaDolar(BigDecimal cotacao) {
-        BigDecimal valorEmDolares = valor.divide(cotacao, 2, BigDecimal.ROUND_HALF_UP);
+        BigDecimal valorEmDolares = valor.divide(cotacao, 2, BigDecimal.ROUND_HALF_EVEN);
         return DOLLAR.format(valorEmDolares);
     }
 

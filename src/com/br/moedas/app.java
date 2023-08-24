@@ -1,6 +1,5 @@
 package com.br.moedas;
 
-
 import java.util.Scanner;
 
 public class app {
